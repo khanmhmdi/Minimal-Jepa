@@ -1,4 +1,5 @@
 # Minimal JEPA - Moving Mnist Task
+# Nano JEPA - Moving Mnist Task
  1. Download Dataset from this link and put it in the "datasets" folder name.
 
  https://www.cs.toronto.edu/~nitish/unsupervised_video/mnist_test_seq.npy
